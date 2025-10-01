@@ -113,20 +113,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-malpani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FAAFF&text_color=FFFFFF&langs_count=8&hide=html,css" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=vaibhav-malpani&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FAAFF&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Contribution Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔥 Contribution Heatmap
-
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/3FAAFF/vaibhav-malpani" alt="GitHub Contribution Chart" width="98%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-malpani&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0891b2&text_color=1c1917&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=vaibhav-malpani&limit=5&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0891b2&text_color=1c1917&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
 <br/>
